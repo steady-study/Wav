@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\200428\mook_WavSound\obj\Debug\mook_WavSound.csprojAssemblyReference.cache
+C:\Users\user\Desktop\200428\mook_WavSound\obj\Debug\mook_WavSound.Form1.resources
+C:\Users\user\Desktop\200428\mook_WavSound\obj\Debug\mook_WavSound.Properties.Resources.resources
+C:\Users\user\Desktop\200428\mook_WavSound\obj\Debug\mook_WavSound.csproj.GenerateResource.cache
+C:\Users\user\Desktop\200428\mook_WavSound\bin\Debug\mook_WavSound.exe.config
+C:\Users\user\Desktop\200428\mook_WavSound\bin\Debug\mook_WavSound.exe
+C:\Users\user\Desktop\200428\mook_WavSound\bin\Debug\mook_WavSound.pdb
+C:\Users\user\Desktop\200428\mook_WavSound\bin\Debug\mook_PlaySound.dll
+C:\Users\user\Desktop\200428\mook_WavSound\bin\Debug\mook_PlaySound.pdb
+C:\Users\user\Desktop\200428\mook_WavSound\obj\Debug\mook_WavSound.csproj.CopyComplete
+C:\Users\user\Desktop\200428\mook_WavSound\obj\Debug\mook_WavSound.exe
+C:\Users\user\Desktop\200428\mook_WavSound\obj\Debug\mook_WavSound.pdb

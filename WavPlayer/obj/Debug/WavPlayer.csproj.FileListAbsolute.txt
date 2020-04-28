@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\200428\WavPlayer\bin\Debug\WavPlayer.exe.config
+C:\Users\user\Desktop\200428\WavPlayer\bin\Debug\WavPlayer.exe
+C:\Users\user\Desktop\200428\WavPlayer\bin\Debug\WavPlayer.pdb
+C:\Users\user\Desktop\200428\WavPlayer\obj\Debug\WavPlayer.csprojAssemblyReference.cache
+C:\Users\user\Desktop\200428\WavPlayer\obj\Debug\WavPlayer.Form1.resources
+C:\Users\user\Desktop\200428\WavPlayer\obj\Debug\WavPlayer.Properties.Resources.resources
+C:\Users\user\Desktop\200428\WavPlayer\obj\Debug\WavPlayer.csproj.GenerateResource.cache
+C:\Users\user\Desktop\200428\WavPlayer\obj\Debug\WavPlayer.exe
+C:\Users\user\Desktop\200428\WavPlayer\obj\Debug\WavPlayer.pdb

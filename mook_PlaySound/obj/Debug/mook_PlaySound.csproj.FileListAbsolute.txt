@@ -1,0 +1,4 @@
+C:\Users\user\Desktop\200428\mook_PlaySound\bin\Debug\mook_PlaySound.dll
+C:\Users\user\Desktop\200428\mook_PlaySound\bin\Debug\mook_PlaySound.pdb
+C:\Users\user\Desktop\200428\mook_PlaySound\obj\Debug\mook_PlaySound.dll
+C:\Users\user\Desktop\200428\mook_PlaySound\obj\Debug\mook_PlaySound.pdb
