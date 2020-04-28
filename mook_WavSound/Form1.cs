@@ -12,7 +12,9 @@ using mook_PlaySound;
 using System.Windows.Forms.DataVisualization.Charting;
 
 namespace mook_WavSound
-{
+{   /// <summary>
+/// 
+/// </summary>
     public partial class Form1 : Form
     {
         private Thread SoundPlayThread;
