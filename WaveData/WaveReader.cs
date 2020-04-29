@@ -141,7 +141,51 @@ namespace WaveData
             return true;
         }
 
+        public Int16[] getData16(int channel)
+        {
+            if (channel == 0)
+                return data16L;
+            else
+                return data16R;
+        }
 
+        public byte[] getData8(int channel)
+        {
+            if (channel == 0)
+                return data8L;
+            else
+                return data8R;
+        }
+
+        public UInt16 getAudioFormat()
+        {
+            return audioFormat;
+        }
+
+        public UInt16 getNumChannels()
+        {
+            return numChannels;
+        }
+
+        public UInt32 getSampleRate()
+        {
+            return sampleRate;
+        }
+
+        public UInt32 getByteRate()
+        {
+            return byteRate;
+        }
+
+        public UInt16 getBitPerSample()
+        {
+            return BitsPerSample;
+        }
+
+        public int getNumSamples()
+        {
+            return numSamples;
+        }
 
     }
 
